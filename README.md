@@ -1,5 +1,5 @@
 # Preview Blazor Server Application
-Preview of in-house web application for cusstomer assets
+Preview of in-house web application for customer assets
 
 Homepage
 
