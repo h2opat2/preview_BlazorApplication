@@ -1,4 +1,4 @@
-# preview_BlazorApplication
+# Preview Blazor Server Application
 Preview of in-house web application for cusstomer assets
 
 Homepage
